@@ -20,22 +20,4 @@ Create a dashboard to help stakeholders solve those needs
 
 # INSIGHT
  
-- Technology is the group that earns the largest sales and profits
- 
-- The main customer file that brings the largest sales is Individual Customers (Customer).
- 
-- Revenue and profits have increased steadily over the years
- 
-- Towards the end of the year, revenue and profits both increase -> The company can push advertising and promotion policies to take advantage of opportunities.
- 
-- Fertile markets are the US, Australia, France, China and Germany. The US, especially, needs more attention and investment
- 
-- The most sold product types are: Phones, Copiers, Chairs, Bookcases
- 
-- The top 4 most sold products are all phones. This shows that the phone is an important and essential product of the company.
- 
-- The phone is in the Technology group. Although the total number of sales is only second, the profit of this Tech group is first. Proving that this is a very important bargain.
- 
-- Standard Class is the most popular shipping method. So you can contact suitable partners for long-term cooperation. From there, costs can be reduced
-
-- Through the analysis process, the Company should develop new phone products in two very potential markets: the US and China. The main reason comes from the top sales and profit margins. Sales growth rates are all at double digits.
+More detail: https://porfoliominhledinh.wordpress.com/2024/06/03/powerbi-global-superstore-sales/
